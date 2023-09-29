@@ -289,3 +289,32 @@ p {
     margin-top: 1vw;
     color: rgb(195, 157, 70);
 }
+
+.navbar{background-color: rgb(246,239,231);color: rgb(121,168,180);padding-bottom: 2vw;}
+.contents{width: fit-content;margin-left: 1vw;text-align: center;}
+#bloom{margin-right: 5.5vw;font-size: 2.5vw;margin-top: 1.7vw;color: rgb(97,131,143);}
+
+
+.contents ul li {
+    font-size: 2vw;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 2.2vw;
+    margin-top: 2vw;
+}
+
+.formenu {
+    font-size: 2vw;
+    display: flex;
+    flex-direction: row;
+    margin-right: 5vw;
+    align-items: center;
+}
+.eng{margin-right: 1.5vw;margin-top: 0.5vw;}
+.menubar img{height: 2vw;width:2vw}
+.orignalcontents{
+    display: flex;
+    flex-direction: column;
+}
+.menubutton{border: none;}
+.flipcontents{display: flex;flex-direction: row;}

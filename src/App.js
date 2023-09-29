@@ -1,7 +1,7 @@
 import './App.css';
 import Reviews from './components/Reviews';
 import Order from './components/Order';
-
+import Navbar from './components/Navbar';
 
 
 
@@ -9,6 +9,7 @@ import Order from './components/Order';
 function App() {
   return (
     <>
+    <Navbar />
     <Reviews />
     <Order />
     </>
