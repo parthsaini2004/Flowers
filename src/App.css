@@ -318,3 +318,5 @@ p {
 }
 .menubutton{border: none;}
 .flipcontents{display: flex;flex-direction: row;}
+.homepage{width:auto;height:56vw;background-image: url("./images/Screenshot\ 2023-09-30\ at\ 4.54.19\ PM.png");background-repeat: no-repeat;background-size: 100%;}
+.homepagebutton{border-radius: 5vw;color: rgb(121,151,180);background-color: rgb(217,217,217);font-size: 4vw;padding:0.7vw 2.5vw 0.7vw 2.5vw ;border: none;margin-top: 38vw;margin-left: 9vw;font-weight: 200;}
