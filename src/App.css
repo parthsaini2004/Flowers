@@ -201,6 +201,7 @@ p {
     font-size: 3vw;
     color: rgb(175, 189, 205);
     margin-bottom: 1vw;
+    z-index:5;
 }
 
 .order1_3 {
@@ -269,6 +270,7 @@ p {
     color: rgb(174, 188, 201);
     font-size: 3vw;
     margin-bottom: 2vw;
+    z-index:5;
 }
 
 .policies {
