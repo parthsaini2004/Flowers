@@ -1,4 +1,7 @@
 import './App.css';
+import React from "react";
+import Catalog from "./Catalog.jsx";
+import WhyChoose from "./WhyChoose.jsx";
 import Reviews from './components/Reviews';
 import Order from './components/Order';
 import Navbar from './components/Navbar';
@@ -13,6 +16,8 @@ function App() {
     <>
     <Navbar />
     <Homepage />
+    <WhyChoose/>
+    <Catalog/>
     <AboutUs />
     <Reviews />
     <Order />

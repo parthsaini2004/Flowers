@@ -1,0 +1,118 @@
+.main {
+    display: inline-block;
+    width: 20%;
+    margin: 40px;
+}
+
+img {
+    border-radius: 50% 50% 0 0;
+    width: 100%;
+    aspect-ratio: 1/1;
+
+
+}
+
+.div-2 {
+    background-color: blanchedalmond;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(23, 190, 193);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.div-3 {
+    background-color: rgb(44, 199, 201);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    border-radius: 0 0 50px 50px;
+}
+
+.name-love {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+p {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.cat-back {
+    background-color: #1a5c96ca;
+
+}
+
+.cat-title {
+    text-align: center;
+    color: white;
+    font-size: 70px
+}
+
+#wcheading {
+    font-size: 70px;
+    color: cornflowerblue;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#wcIcon {
+    font-size: 70px;
+
+}
+
+.wcTitle {
+    font-size: 24px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bolder;
+    color: rgba(184, 167, 11, 0.83);
+    margin: 20px auto;
+}
+
+.wcDes {
+    font-size: 18px;
+    font-weight: 200;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgba(100, 148, 237, 0.96);
+    letter-spacing: 1.5px;
+}
+
+.wc-main-div {
+    padding: 10px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.main-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.box-1 {
+    padding-top: 100px;
+}
+
+svg {
+    padding: 0;
+    margin: 0;
+}
+
+path {
+    padding: 0;
+    margin: 0;
+}
