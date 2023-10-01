@@ -1,7 +1,7 @@
 import './App.css';
 import React from "react";
-import Catalog from "./components/Catalog.jsx";
-import WhyChoose from "./components/WhyChoose.jsx";
+import Catalog from "./components/Catalog";
+import WhyChoose from "./components/WhyChoose;
 import Reviews from './components/Reviews';
 import Order from './components/Order';
 import Navbar from './components/Navbar';
