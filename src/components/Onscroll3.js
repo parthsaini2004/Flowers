@@ -14,7 +14,7 @@ export default function Onscroll3()
         }, 2000);
         document.getElementById('ih3').innerText="CHOOSE YOUR BOUQUET";
 
-    } 
+    }
     
     
     return(

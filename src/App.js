@@ -1,7 +1,7 @@
 import './App.css';
 import React from "react";
-import Catalog from "./Catalog.jsx";
-import WhyChoose from "./WhyChoose.jsx";
+import Catalog from "./components/Catalog";
+import WhyChoose from "./components/WhyChoose";
 import Reviews from './components/Reviews';
 import Order from './components/Order';
 import Navbar from './components/Navbar';
@@ -10,6 +10,7 @@ import { FlCarousal } from './components/FlCarousal';
 import { Address } from './components/address';
 import { Footer } from './components/footer';
 import { AboutUs } from './components/aboutUs';
+import { Delivery } from './components/Delivery';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <WhyChoose/>
     <Catalog/>
     <AboutUs />
+    <Delivery />
     <Reviews />
     <Order />
     <FlCarousal/>

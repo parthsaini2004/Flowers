@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./style.css"
 export const AboutUs = () => {
     const container={
         display:"flex",
@@ -20,7 +20,7 @@ export const AboutUs = () => {
         paddingRight:"10vw"
     }
   return (
-    <div style={container}>
+    <div className="text2" style={container}>
         <img style={imge} src="https://th.bing.com/th/id/OIP.OcPuPltDWL6_70Cb-0kozgHaHa?pid=ImgDet&w=1668&h=1668&rs=1" alt='flower' />
         <div style={textField}>
             <h1>About Us</h1>

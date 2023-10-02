@@ -21,7 +21,7 @@ function Catalog() {
         <Catalog_item name="Pink Sunset-1" price="45$" img_src="https://images.unsplash.com/photo-1613539246066-78db6ec4ff0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZsb3dlcnN8ZW58MHx8MHx8fDA%3D&w=1000&q=80" />
       </div>
       <p style={{ textAlign: 'center', color: 'white', fontWeight: 'bold', fontFamily: "'Noto Sans JP', sans-serif" }}>Read more <i class="fa-solid fa-arrow-right"></i></p>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,192L60,165.3C120,139,240,85,360,58.7C480,32,600,32,720,80C840,128,960,224,1080,240C1200,256,1320,192,1380,160L1440,128L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="rgb(246, 239, 231)" fill-opacity="1" d="M0,192L60,165.3C120,139,240,85,360,58.7C480,32,600,32,720,80C840,128,960,224,1080,240C1200,256,1320,192,1380,160L1440,128L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
     </div>
   );
 }
