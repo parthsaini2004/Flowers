@@ -21,16 +21,16 @@ export const Address = () => {
         height:"40vh"
     }
     return (
-        <div className='address' style={container}>
+        <div className='address text3' style={container}>
             <div className="addr" style={left}>
-                <h1>Contacts</h1>
+                <h1 className='text2'>Contacts</h1>
                 <hr/>
-                <h4>Address</h4>
+                <h4 className='text2'>Address</h4>
                 <p>36 Joseph HardCastle CL.</p>
                 <p>London SE14 SRQ</p>
                 <p>United Kingdom</p>
                 <hr/>
-                <h4>Working Hours</h4>
+                <h4 className='text2'>Working Hours</h4>
                 <p>mon-fri 10:00 - 12:00</p>
                 <p>sat-sun 12:00-21:00</p>
             </div>

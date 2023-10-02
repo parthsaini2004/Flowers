@@ -10,6 +10,7 @@ import { FlCarousal } from './components/FlCarousal';
 import { Address } from './components/address';
 import { Footer } from './components/footer';
 import { AboutUs } from './components/aboutUs';
+import { Delivery } from './components/Delivery';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <WhyChoose/>
     <Catalog/>
     <AboutUs />
+    <Delivery />
     <Reviews />
     <Order />
     <FlCarousal/>
