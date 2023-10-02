@@ -17,4 +17,37 @@
     background-color: rgb(246, 239, 231);
     padding: 50px;
   }
-  
+  .text1{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .text2{
+    color:rgb(140, 196, 245);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .text3{
+    color: rgb(215, 145, 60);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .dcard{
+    display:flex;
+    width:27vw;
+    flex-direction: column;
+    gap:10px;
+  }
+  cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap:10px;
+  }
+  .num{
+    font-size: 4vw;
+    border-radius: 100%;
+    border:solid;
+    width:5vw;
+    height: 5vw;
+  }
+  .ic{
+    width:50px
+  }
